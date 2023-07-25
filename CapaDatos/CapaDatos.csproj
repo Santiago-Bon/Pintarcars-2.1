@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4599AE2C-DCA3-45C5-AAA6-C1D433435667}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaDatos</RootNamespace>
+    <AssemblyName>CapaDatos</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cotización Inicial\CD_Clientes.cs" />
+    <Compile Include="CD_Conexion.cs" />
+    <Compile Include="Orden de Trabajo\CD_Orden_Trabajo.cs" />
+    <Compile Include="Cotización Inicial\CD_Cotizacion_Inicial.cs" />
+    <Compile Include="Cotización Inicial\CD_Inspeccion_Inicial.cs" />
+    <Compile Include="Orden de Trabajo\CD_Marca.cs" />
+    <Compile Include="Costos Generales\CD_Materiales.cs" />
+    <Compile Include="Costos Generales\CD_Costos_Generales.cs" />
+    <Compile Include="Costos Generales\CD_Costos_Generales_Materiales.cs" />
+    <Compile Include="Costos Generales\CD_Costos_Generales_Trabajadores .cs" />
+    <Compile Include="Orden de Trabajo\CD_Orden_Trabajo_Inspeccion.cs" />
+    <Compile Include="Orden de Trabajo\CD_Pagos.cs" />
+    <Compile Include="Orden de Trabajo\CD_Partes_Inspeccion.cs" />
+    <Compile Include="Cotización Inicial\CD_Tipo_Documento.cs" />
+    <Compile Include="Orden de Trabajo\CD_Tipo_Pago.cs" />
+    <Compile Include="Costos Generales\CD_Tipo_Trabajador.cs" />
+    <Compile Include="Usuarios\CD_Usuarios.cs" />
+    <Compile Include="Orden de Trabajo\CD_Vehiculos.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidades\CapaEntidades.csproj">
+      <Project>{2310c7f0-238e-48b3-a02d-9a98d3db683d}</Project>
+      <Name>CapaEntidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

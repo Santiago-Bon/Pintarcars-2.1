@@ -1,0 +1,132 @@
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Aprendiz\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Aprendiz\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Aprendiz\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Aprendiz\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Aprendiz\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Aprendiz\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Aprendiz\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Aprendiz\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Aprendiz\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Sena CSET\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Sena CSET\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Sena CSET\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Downloads\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Sena CSET\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Sena CSET\Downloads\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\sebit\OneDrive\Escritorio\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\sebit\OneDrive\Escritorio\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\sebit\OneDrive\Escritorio\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\sebit\OneDrive\Escritorio\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\sebit\OneDrive\Escritorio\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\sebit\OneDrive\Escritorio\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\sebit\OneDrive\Escritorio\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\sebit\OneDrive\Escritorio\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\sebit\OneDrive\Escritorio\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\sebit\OneDrive\Escritorio\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\sebit\OneDrive\Escritorio\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Sena CSET\Desktop\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Sena CSET\Desktop\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Sena CSET\Desktop\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Sena CSET\Desktop\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express (version final)\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express (version final)\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express (version final)\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express (version final)\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express (version final)\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express (version final)\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express (version final)\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express (version final)\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express (version final)\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express (version final)\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\carlo\OneDrive\Documentos\Pintacars\Programa\Pintacars_Express (version final)\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Pintacars_Express\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Pintacars_Express\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Pintacars_Express\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Pintacars_Express\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\sebit\OneDrive\Escritorio\Proyecto pintacars\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\sebit\OneDrive\Escritorio\Proyecto pintacars\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\sebit\OneDrive\Escritorio\Proyecto pintacars\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\sebit\OneDrive\Escritorio\Proyecto pintacars\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\sebit\OneDrive\Escritorio\Proyecto pintacars\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\sebit\OneDrive\Escritorio\Proyecto pintacars\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\sebit\OneDrive\Escritorio\Proyecto pintacars\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\sebit\OneDrive\Escritorio\Proyecto pintacars\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\sebit\OneDrive\Escritorio\Proyecto pintacars\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\sebit\OneDrive\Escritorio\Proyecto pintacars\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\sebit\OneDrive\Escritorio\Proyecto pintacars\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Sena CSET\Downloads\Pintacars_Express 2.0\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Sena CSET\Downloads\Pintacars_Express 2.0\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Sena CSET\Downloads\Pintacars_Express 2.0\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Downloads\Pintacars_Express 2.0\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Downloads\Pintacars_Express 2.0\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Downloads\Pintacars_Express 2.0\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Downloads\Pintacars_Express 2.0\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Downloads\Pintacars_Express 2.0\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Downloads\Pintacars_Express 2.0\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Sena CSET\Downloads\Pintacars_Express 2.0\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Sena CSET\Downloads\Pintacars_Express 2.0\Pintacars_Express 2.0\Pintacars_Express 2.0\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Nueva carpeta\Pintacars_Express 2.1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Nueva carpeta\Pintacars_Express 2.1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Nueva carpeta\Pintacars_Express 2.1\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Nueva carpeta\Pintacars_Express 2.1\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Nueva carpeta\Pintacars_Express 2.1\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Nueva carpeta\Pintacars_Express 2.1\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Nueva carpeta\Pintacars_Express 2.1\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Nueva carpeta\Pintacars_Express 2.1\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Nueva carpeta\Pintacars_Express 2.1\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Nueva carpeta\Pintacars_Express 2.1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Aprendiz.BUCDFPCSEFSD025\Documents\Proyecto PintarCars\Pintacars_Express (version final)\Nueva carpeta\Nueva carpeta\Pintacars_Express 2.1\CapaNegocio\obj\Debug\CapaNegocio.pdb

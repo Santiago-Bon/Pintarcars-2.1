@@ -1,0 +1,23 @@
+C:\Users\COMPU4\Desktop\Ejercicios visual studio\Pintacars_Express\Pintacars_Express\bin\Debug\Pintacars_Express.exe.config
+C:\Users\COMPU4\Desktop\Ejercicios visual studio\Pintacars_Express\Pintacars_Express\bin\Debug\Pintacars_Express.exe
+C:\Users\COMPU4\Desktop\Ejercicios visual studio\Pintacars_Express\Pintacars_Express\bin\Debug\Pintacars_Express.pdb
+C:\Users\COMPU4\Desktop\Ejercicios visual studio\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.csproj.AssemblyReference.cache
+C:\Users\COMPU4\Desktop\Ejercicios visual studio\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.csproj.SuggestedBindingRedirects.cache
+C:\Users\COMPU4\Desktop\Ejercicios visual studio\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.Form1.resources
+C:\Users\COMPU4\Desktop\Ejercicios visual studio\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.Properties.Resources.resources
+C:\Users\COMPU4\Desktop\Ejercicios visual studio\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.csproj.GenerateResource.cache
+C:\Users\COMPU4\Desktop\Ejercicios visual studio\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.csproj.CoreCompileInputs.cache
+C:\Users\COMPU4\Desktop\Ejercicios visual studio\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.exe
+C:\Users\COMPU4\Desktop\Ejercicios visual studio\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.pdb
+C:\Users\carlo\Downloads\Pintacars_Express\Pintacars_Express\bin\Debug\Pintacars_Express.exe.config
+C:\Users\carlo\Downloads\Pintacars_Express\Pintacars_Express\bin\Debug\Pintacars_Express.exe
+C:\Users\carlo\Downloads\Pintacars_Express\Pintacars_Express\bin\Debug\Pintacars_Express.pdb
+C:\Users\carlo\Downloads\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.csproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlo\Downloads\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.Form1.resources
+C:\Users\carlo\Downloads\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.Form2.resources
+C:\Users\carlo\Downloads\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.Properties.Resources.resources
+C:\Users\carlo\Downloads\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.csproj.GenerateResource.cache
+C:\Users\carlo\Downloads\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.exe
+C:\Users\carlo\Downloads\Pintacars_Express\Pintacars_Express\obj\Debug\Pintacars_Express.pdb
